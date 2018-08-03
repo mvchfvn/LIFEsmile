@@ -25,15 +25,12 @@ def your_symptoms(symptoms="Runny Nose", num=0)
                     "Neti Pot", "https://amzn.to/2MbnuyV", 
                     "", "https://images-na.ssl-images-amazon.com/images/I/518z6VNx%2BfL._SX355_.jpg", "https://images-na.ssl-images-amazon.com/images/I/514ssozOZlL._SY355_.jpg", "https://bit.ly/2KhR2tb"],
                     
-        #  "Itchy Throat" =>
-        #         ["H\Natures Answer Sambucus (Nigra) Extract Spray with immune supporting herbs sambucus (black elderberry), 
-        #         echinacea, propolis and astragalus with the soothing essence of sage and slippery elm in an all natural convenient spray.", 
-        #         "https://express.google.com/u/0/product/17562546402587340738_17395117337103192991_15646?utm_source=google_shopping&utm_medium=tu_cu&utm_content=eid-lsjeuxoeqt&utm_campaign=15646", 
-        #         "Gargle with Salt Water", 
-        #         "https://images-na.ssl-images-amazon.com/images/I/914LzVpWL0L._SY355_.jpg", 
-        #         "https://images-na.ssl-images-amazon.com/images/I/812ZoQKgD6L._SL1500_.jpg", 
-        #         "https://i3.pureformulas.net/images/product/large/sambucus-black-elder-berry-extract-spray-2-fl-oz-by-natures-answer.jpg",
-        #         "https://thehealthorange.com/wp-content/uploads/2017/07/gargle-sm-min.jpg"], 
+          "Itchy Throat" =>
+                 ["Theraflu Multi-Symptom Severe Cold Green Tea & Honey Lemon 12", "", "Cepacol Extra Strength Lozenges Tangerine 16 Ct", "", "H\Natures Answer Sambucus (Nigra) Extract Spray with immune supporting herbs sambucus (black elderberry), 
+                 echinacea, propolis and astragalus with the soothing essence of sage and slippery elm in an all natural convenient spray.","", 
+                 "Gargle with Salt Water", "", "https://forthemommas.com/wp-content/uploads/2011/09/Theraflu-Coupon-2011-.jpg","https://target.scene7.com/is/image/Target/17444313?wid=488&hei=488&fmt=pjpeg", 
+                 "https://i3.pureformulas.net/images/product/large/sambucus-black-elder-berry-extract-spray-2-fl-oz-by-natures-answer.jpg",
+                 "https://thehealthorange.com/wp-content/uploads/2017/07/gargle-sm-min.jpg"], 
         "Congestion" => 
                 ["Mucinex Sinus-Max Max Strength Day & Night Liquid Gels for Congestion", 
                     "https://www.target.com/p/mucinex-sinus-max-max-strength-day-night-liquid-gels-acetaminophen-24ct/-/A-17444315", 

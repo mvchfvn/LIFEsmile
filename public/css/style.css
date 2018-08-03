@@ -190,17 +190,21 @@ header nav ul li a {
     float: left;
     margin-right: 10px;
     text-align: center;
+    margin: 0 0 0 0;
 }
+
+
 
 #features ul li.feature-1 {
     background: url('../images/features-icon-1.png') no-repeat top center;
+    float: left;
+    padding-bottom: 10px;
 }
 #features ul li.feature-2 {
     background: url('../images/features-icon-2.png') no-repeat top center;
+    float: right;
 }
-#features ul li.feature-3 {
-    background: url('../images/features-icon-3.png') no-repeat top center;
-}
+
 #primary-content {
     background-color: #f8fafa;
     padding: 60px 0;
@@ -208,9 +212,9 @@ header nav ul li a {
 }
 
 #primary-content h3 {
-    display: block;
+    /*display: block;*/
     margin: 0 auto 20px auto;
-    width: 400px;
+    width: 500px;
     border-bottom: 1px solid #02b8dd;
     padding: 0 0 20px 0;
     text-align: center;
@@ -220,9 +224,6 @@ header nav ul li a {
     margin: 20px 0;
 }
 
-/*#action{*/
-/*    text-align: center;*/
-/*}*/
 
 #secondary-content {
     padding: 60px 0;
@@ -320,4 +321,27 @@ footer {
 .menu {
     margin-top:50px;
     padding-bottom:50px;
+}
+
+#gallery {
+    background-color: #fef;
+}
+
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    /*float: left;*/
+    width: 180px;
+    text-align: center;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
 }

@@ -98,4 +98,24 @@ class ApplicationController < Sinatra::Base
     return erb :waterHelp
   end
   
+  get '/inspiration' do
+    return erb :inspiration
+  end
+  
+  get '/sleep'do 
+    return erb :sleep 
+  end
+  
+  get '/water'do 
+    return erb :water 
+  end
+  
+  get '/exercise'do 
+    return erb :exercise 
+  end
+  
+  get '/helpergy'do 
+    return erb :Helpergy 
+  end
+  
 end

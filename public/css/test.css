@@ -1,0 +1,13 @@
+#quiz {
+  text-align: center;
+  background-color: #ffccdd;
+}
+
+input{
+  padding-bottom:100px;
+}
+
+#results {
+  text-align: center;
+  background-color: #9ca;
+}
